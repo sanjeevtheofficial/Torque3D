@@ -76,6 +76,7 @@ void BadWordFilter::create()
    gBadWordFilter->addBadWord("bastard");
    gBadWordFilter->addBadWord("dick");
    gBadWordFilter->addBadWord("whore");
+   gBadWordFilter->addBadWord("nigga");
    gBadWordFilter->addBadWord("goddamn");
    gBadWordFilter->addBadWord("asshole");
 }
